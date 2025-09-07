@@ -13,10 +13,11 @@ Personal website
 I like coding (unsurprisingly). My favorite programming languages are python, JavaScript, and GDScript. I have dabbled in C# before and am looking forward to making something in C, Rust, or some other language with memory control.
 
 ## Current Projects
-### sandhaven
+### Goblin
 <sub>Will be open source when finished!<sub>
 
-A sand simulation with over 20 different materials to play with!
+A D&D app with character sheets, note-taking, and other helpful features.
+
 ### Personal website
 A place to contact me, play my games, and interact with my other project. 
 
