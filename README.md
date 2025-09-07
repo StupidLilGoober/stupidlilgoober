@@ -1,16 +1,23 @@
-## Hi there 👋
+# StupidLilGoober
 
-<!--
-**StupidLilGoober/stupidlilgoober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Info
+Contacts:
+stupidlilgoober@gmail.com
 
-Here are some ideas to get you started:
+https://m.youtube.com/channelUCpo8utKXdgbQbo3tf__bxww
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I am working on:
+Personal website
+
+## About me
+I like coding (unsurprisingly). My favorite programming languages are python, JavaScript, and GDScript. I have dabbled in C# before and am looking forward to making something in C, Rust, or some other language with memory control.
+
+## Current Projects
+### sandhaven
+<sub>Will be open source when finished!<sub>
+
+A sand simulation with over 20 different materials to play with!
+### Personal website
+A place to contact me, play my games, and interact with my other project. 
+
+<sub>When it comes to websites, I have no clue what I am doing, so please, if you have advice, share it!</sub>
