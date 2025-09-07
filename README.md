@@ -4,7 +4,7 @@
 Contacts:
 stupidlilgoober@gmail.com
 
-https://m.youtube.com/channelUCpo8utKXdgbQbo3tf__bxww
+https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww
 
 What I am working on:
 Personal website
