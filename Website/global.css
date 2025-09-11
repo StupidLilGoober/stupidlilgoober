@@ -1,1 +1,6 @@
+:root {
+  --text_color: #00c3ff;
+}
 
+html {
+  color: var(--text_color)
