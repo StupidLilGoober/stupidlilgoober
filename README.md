@@ -28,3 +28,6 @@ A place to contact me, play my games, and interact with my other project.
 
 ### Choccy Chips
 A folder that adds a JavaScript class that can use JSON for Cookies, through some clever tricks.
+
+### Python Sorting Algorithms
+A collection of fast sorting algorithms for python.
