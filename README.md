@@ -1,10 +1,10 @@
 # StupidLilGoober
 
 ## Info
-Contacts:
-stupidlilgoober@gmail.com
+Where to find me:
 
-https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww
+- [Email](stupidlilgoober@gmail.com)
+- [YT](https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww)
 
 What I am working on:
 Personal website
