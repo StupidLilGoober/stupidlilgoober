@@ -3,8 +3,8 @@
 ## Info
 Where to find me:
 
-- [Email](stupidlilgoober@gmail.com)
-- [YT](https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww)
+- stupidlilgoober@gmail.com
+- [YT](https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww.com)
 
 What I am working on:
 Personal website
