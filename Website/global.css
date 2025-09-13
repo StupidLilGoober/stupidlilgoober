@@ -5,6 +5,7 @@
   --link-color: #9500b3;
 
   --background-color: #00217a;
+  --button-color: #004586;
 }
 
 html {
@@ -20,4 +21,13 @@ html {
     color: var(--link-color);
   }
 
+  .topbar {
+    text-align: left;
+    float: left;
+
+    button {
+      background-color: var(--background-color);
+      color: var(--text-color)
+    }
+  }
 }

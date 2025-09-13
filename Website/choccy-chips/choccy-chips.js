@@ -1,9 +1,10 @@
 // Saves json data as a cookie.
-
+// I deleted a bunch of the stuff in this directory because I don't need it for this website.
+// You can to, if you want. Just don't get rid of info.txt like I did.
 
 const cookies = document.cookie
 
-class cookieJson {
+class choccyChips {
     constructor(data={}, cookie_name="UserData") {
         json_string = JSON.stringify(data)
         
