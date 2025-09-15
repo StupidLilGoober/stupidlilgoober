@@ -7,15 +7,14 @@ Where to find me:
 - [YT](https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww.com)
 
 What I am working on:
-Personal website
+Sandhaven & Rust-to-Python IPC
 
 ## About me
 I like coding (unsurprisingly). My favorite programming languages are python, JavaScript, and GDScript (Godot Scripting Language). I have dabbled in C# before and am looking forward to making something in C, Rust, or some other language with memory control.
 
 ## Current Projects
-### Python sorting algorithms.
-
-Basically just a bunch of fast and reliable sorting algorithms for python lists.
+### Sandhaven
+### Rust-to-Python IPC
 
 
 ### Personal website
