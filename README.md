@@ -13,9 +13,9 @@ Sandhaven & Rust-to-Python IPC
 I like coding (unsurprisingly). My favorite programming languages are python, JavaScript, and GDScript (Godot Scripting Language). I have dabbled in C# before and am looking forward to making something in C, Rust, or some other language with memory control.
 
 ## Current Projects
-### Sandhaven
-### Rust-to-Python IPC
 
+### Sandhaven
+A basic sand simulation with a mod loader, Python for the front end and Rust for the backend.
 
 ### Personal website
 A place to contact me, play my games, and interact with my other project. 
