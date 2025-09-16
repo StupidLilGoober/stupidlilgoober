@@ -24,4 +24,4 @@ A place to contact me, play my games, and interact with my other project.
 
 ## Finished projects
 > Just because a project is "finished" doesn't mean I have stopped working on it, it just means it is released to the public.
-A full list of completes projects can be found [here](project_list.md)
+A full list of completes projects can be found [here](project-list.md)
