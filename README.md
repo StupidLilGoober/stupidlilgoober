@@ -31,5 +31,5 @@ A folder that adds a JavaScript class that can use JSON for Cookies, through som
 ### Python Sorting Algorithms
 A collection of fast sorting algorithms for python.
 
-## Emoticons
+### Emoticons
 A list of emoticons for you to use in your project!
