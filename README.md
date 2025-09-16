@@ -24,12 +24,4 @@ A place to contact me, play my games, and interact with my other project.
 
 ## Finished projects
 > Just because a project is "finished" doesn't mean I have stopped working on it, it just means it is released to the public.
-
-### Choccy Chips
-A folder that adds a JavaScript class that can use JSON for Cookies, through some clever tricks.
-
-### Python Sorting Algorithms
-A collection of fast sorting algorithms for python.
-
-### Emoticons
-A list of emoticons for you to use in your project!
+A full list of completes projects can be found [here](project_list.md)
