@@ -14,8 +14,8 @@ I like coding (unsurprisingly). My favorite programming languages are python, Ja
 
 ## Current Projects
 ### Sandhaven
-### Rust-to-Python IPC
-
+A full sand simulation with 20+ elements, multiple
+tools, and built-in moddability. It will all be licensed under the GNU License v3.
 
 ### Personal website
 A place to contact me, play my games, and interact with my other project. 
