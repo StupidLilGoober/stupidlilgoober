@@ -26,3 +26,4 @@ A place to contact me, play my games, and interact with my other project.
 > When it comes to websites, I have no clue what I am doing, so please, if you have advice, share it!
 
 ## [Finished Projects](project-list.md)
+You can find a full list of my finished projects **[here](project-list.md)**
