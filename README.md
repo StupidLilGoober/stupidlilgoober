@@ -5,25 +5,13 @@ Where to find me:
 
 - stupidlilgoober@gmail.com
 - [YT](https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww.com)
+- [Discord](https://discord.com/users/1246426621641101363)
 
 What I am working on:
 Sandhaven & Rust-to-Python IPC
 
 ## About Me
-I like coding (unsurprisingly). My favorite programming languages are python, JavaScript, and GDScript (Godot Scripting Language). I have dabbled in C# before and am looking forward to making something in C, Rust, or some other language with memory control.
-> Hi there! As of right now, I am learning C/C++.
-> It's kind of a doozy, but I tried _Rust_ and that
-> was a pain in my ass. Change my mind.
-
-## Current Projects
-### Sandhaven
-A full sand simulation with 20+ elements, multiple
-tools, and built-in moddability. It will all be licensed under the GNU License v3.
-
-### Personal website
-A place to contact me, play my games, and interact with my other project. 
-
-> When it comes to websites, I have no clue what I am doing, so please, if you have advice, share it!
+Hello! I am a Computer Scientist with ~2.5 years of experience. I have experience in Python, Godot, and a few others. I intend on learning the C programming language family, so that I can program a sand simulation in it.
 
 ## [Finished Projects](project-list.md)
 You can find a full list of my finished projects **[here](project-list.md)**
