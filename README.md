@@ -15,3 +15,6 @@ Hello! I am a Computer Scientist with ~3 years of experience. I have experience 
 
 ## [Finished Projects](project-list.md)
 You can find a full list of my finished projects **[here](project-list.md)**
+
+## [Current Projects](cur-project.md)
+Here, you can find a full list of projects that are currently getting worked on. You can also get updates at my [blog](https://stupidlilgoober.github.io)
