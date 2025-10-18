@@ -1,6 +1,4 @@
 # Current Projects
-## Personal Website
-A website where I host the games I have made.
-
-Currently, I am working on adding a simple sand simulation
-to my website, so that should be fun!
+## Kaiju Research Program
+A strategy game where you defend major cities from
+Kaiju. Developed by [Crunchy](https://GitHub.com/crunchy-games)
