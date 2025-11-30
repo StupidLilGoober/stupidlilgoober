@@ -4,7 +4,7 @@
 Where to find me:
 
 - stupidlilgoober@gmail.com
-- [YT](https://m.youtube.com/channel/UCpo8utKXdgbQbo3tf__bxww.com)
+- [YT](https://youtube.com/@stupid-dev)
 - [Discord](https://discord.com/users/1246426621641101363)
 
 ## About Me
