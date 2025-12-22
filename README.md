@@ -9,5 +9,6 @@ Where to find me:
 
 ## About Me
 Hello! I am a Computer Scientist with ~3 years of experience. I have experience in Python, Lua, and C/C++ (out of the two, mostly C++)
-~6 months was on Scratch, ~1 1/2 years learning high level languages, and ~6 months learning C/C++.
+~6 months was on Scratch, ~1 1/2 years learning high level languages, and ~6 months learning C/C++. I have, for the most part, stopped
+learning C/C++. Now, I primarily build really cool python stuff.
 
