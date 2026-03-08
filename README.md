@@ -8,5 +8,4 @@ Where to find me:
 - [Discord](https://discord.com/users/1246426621641101363)
 
 A lot of my projects are private. I have started coding on the regular fairly recently,
-so I don't really have much to show for my skill. But, I will post something on my YT
-channel soon about a project I am working on :D
+so I don't really have much to show for my skill.
