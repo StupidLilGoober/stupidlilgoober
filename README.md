@@ -7,5 +7,9 @@ Where to find me:
 - [YT](https://youtube.com/@stupid-dev)
 - [Discord](https://discord.com/users/1246426621641101363)
 
-A lot of my projects are private. I have started coding on the regular fairly recently,
-so I don't really have much to show for my skill.
+A lot of my projects are private. I have started coding on the regular fairly recently.
+
+What I work on:
+* C/C++ Projects
+* Python scripting
+* Open-Source Projects
