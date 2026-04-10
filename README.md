@@ -10,6 +10,6 @@ Where to find me:
 A lot of my projects are private. I have started coding on the regular fairly recently.
 
 What I work on:
-* C/C++ Projects
+* Low-level projects
 * Python scripting
 * Open-Source Projects
