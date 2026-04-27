@@ -1,7 +1,7 @@
 # StupidLilGoober
 
-I am a programmer who creates tools. Recently, I have been working on stuff for D&D and other
-TTRPGs.
+I am a programmer who creates tools. Recently, I have been working on a
+video game with my friends.
 
 ## Info
 
