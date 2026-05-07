@@ -1,7 +1,7 @@
-# StupidLilGoober
+# Dominic Kolp
 
-I am a programmer who creates tools. Recently, I have been working on a
-video game with my friends.
+I am a programmer who creates tools. Yeah, I don't really
+know what else to put here.
 
 ## Info
 
@@ -13,6 +13,6 @@ Where to find me:
 
 
 What I work on:
-* Low-level projects
+* Minecraft mods
 * Python scripting
 * Open-Source Projects
