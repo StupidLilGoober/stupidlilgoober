@@ -13,6 +13,6 @@ Where to find me:
 
 
 What I work on:
-* Minecraft mods
+* Low-level projects
 * Python scripting
 * Open-Source Projects
