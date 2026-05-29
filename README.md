@@ -1,7 +1,11 @@
 # Dominic Kolp
 
-I am a programmer who creates tools. Yeah, I don't really
-know what else to put here.
+https://domkolp.qzz.io
+
+I program low-level projects. I was inspired to start programming because at the ripe
+old age of 7 I learned that it was necessary for making Sonic fan games.
+
+In my free time, I listen to music and program stuffs.
 
 ## Info
 
