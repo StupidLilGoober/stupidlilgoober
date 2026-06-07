@@ -3,9 +3,9 @@
 https://domkolp.qzz.io
 
 I program low-level projects. I was inspired to start programming because at the ripe
-old age of 7, when I learned that it was necessary for making Sonic fan games.
+old age of 7, I learned that it was necessary for making Sonic fan games.
 
-In my free time, I listen to music and program tools.
+In my free time, I listen to music and make programming tools.
 
 ## Info
 
