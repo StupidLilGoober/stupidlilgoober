@@ -20,3 +20,5 @@ What I work on:
 * Low-level projects
 * Scripts
 * Open-Source Projects
+
+![](profile-3d/profile.svg)
