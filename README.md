@@ -21,4 +21,4 @@ What I work on:
 * Scripts
 * Open-Source Projects
 
-![](profile-3d/profile.svg)
+![](profile-3d-contrib/profile-night-rainbow.svg)
