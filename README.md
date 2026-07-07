@@ -16,7 +16,7 @@ Where to find me:
 * [Discord](https://discord.com/users/1246426621641101363)
 
 What I work on:
-* Low-level projects (mainly cli)
+* Low-level projects (mainly CLI or graphics)
 * Python Projects (mainly games / game tools)
 * Open-Source Projects
 
