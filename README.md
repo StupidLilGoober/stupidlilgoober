@@ -3,6 +3,8 @@
 | https://domkolp.com | contact@domkolp.com | https://youtube.com/@stupidlilgoober0
 | :---: | :---: | :---: |
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1246426621641101363)](https://discord.com/users/1246426621641101363)
+
 I am a backend programmer, inspired by legendary
 game developers of the past, who creates cool tools
 and things for people to use.
