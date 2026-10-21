@@ -1,18 +1,22 @@
 # Dominic Kolp
 
-| https://domkolp.com | contact@domkolp.com | https://youtube.com/@stupidlilgoober0
-| :---: | :---: | :---: |
+| https://domkolp.com | contact@domkolp.com | https://youtube.com/@stupidlilgoober0 | https://discord.com/user/1246426621641101363 |
+| :---: | :---: | :---: | :---: |
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1246426621641101363)](https://discord.com/users/1246426621641101363)
-
-I am a backend programmer, inspired by legendary
-game developers of the past, who creates cool tools
-and things for people to use.
-
-I *know* how to do frontend, but it isn't exactly
-my expertise.
-
-I also frequently collaborate with @NCSources0, so
-you should check out his stuff.
-
-![](profile-3d-contrib/profile-night-rainbow.svg)
+<details>
+  <summary>About me</summary>
+  <p>
+    I am a backend programmer. I primarily make stuff in Python, as it was one of the first languages I had
+    learned. I also enjoy C, and I find enjoyment in learning new languages. I make tools that I <em>personally</em>
+    think I would find useful.
+    You can find more stuff about me on my <a href="https://domkolp.com">website</a>.
+  </p>
+</details>
+<details>
+  <summary>Stats</summary>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="600">
+</details>
+<details>
+  <summary>Discord Status</summary>
+  <img src="https://lanyard.cnrad.dev/api/1246426621641101363">
+</details>
