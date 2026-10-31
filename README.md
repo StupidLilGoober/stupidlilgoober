@@ -1,6 +1,6 @@
 # Dominic Kolp
 
-| https://domkolp.com | contact@domkolp.com | https://youtube.com/@stupidlilgoober0 | https://discord.com/user/1246426621641101363 |
+| https://domkolp.com | contact@domkolp.com | https://x.com/stupidlilgoober | https://discord.com/user/1246426621641101363 |
 | :---: | :---: | :---: | :---: |
 
 <details>
