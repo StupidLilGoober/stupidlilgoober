@@ -20,3 +20,7 @@
   <summary>Discord Status</summary>
   <img src="https://lanyard.cnrad.dev/api/1246426621641101363">
 </details>
+<details>
+  <summary>Osu! Stats</summary>
+  <img src="https://osu-sig.s23.moe/card?user=40699733&mode=std&lang=en&round_avatar=true&animation=true&hue=255&w=800&h=600">
+</details>
