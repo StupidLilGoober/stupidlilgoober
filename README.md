@@ -6,9 +6,8 @@
 <details>
   <summary>About me</summary>
   <p>
-    I am a backend programmer. I primarily make stuff in Python, as it was one of the first languages I had
-    learned. I also enjoy C, and I find enjoyment in learning new languages. I make tools that I <em>personally</em>
-    think I would find useful.
+    I am a C and Python programmer. I make tools and projects that I <em>personally</em>
+    think I would find useful, cool, or fun.
     You can find more stuff about me on my <a href="https://domkolp.com">website</a>.
   </p>
 </details>
