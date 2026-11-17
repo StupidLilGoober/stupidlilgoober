@@ -1,7 +1,7 @@
 # Dominic Kolp
 
-| [domkolp.com](https://domkolp.com) | [contact@domkolp.com](mailto:contact@domkolp.com) | [x/stupidlilgoober](https://x.com/stupidlilgoober) | [youtube/stupidlilgoober0](https://youtube.com/@stupidlilgoober0) |
-| :---: | :---: | :---: | :---: |
+| [domkolp.com](https://domkolp.com) | [contact@domkolp.com](mailto:contact@domkolp.com) | [youtube/stupidlilgoober0](https://youtube.com/@stupidlilgoober0) |
+| :---: | :---: | :---: |
 
 <details>
   <summary>About me</summary>
